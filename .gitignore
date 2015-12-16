@@ -1,0 +1,10 @@
+Release/
+lib/
+include/
+Debug/
+cmake/
+FinalProject/Debug/
+FinalProject/Release/
+FinalProject.sdf
+FinalProject.sln
+FinalProject.v12.suo
